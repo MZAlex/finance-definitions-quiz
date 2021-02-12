@@ -1,2 +1,2 @@
 # finance-definitions-quiz
-Quiz using IG's definition of finance / trading definitions
+Quiz using IG's definitions of finance / trading
